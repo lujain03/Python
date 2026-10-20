@@ -1,6 +1,6 @@
 
-if True:
- print("This is true")
+# if True:
+#  print("This is true")
 
 # comments in python are done using the hash symbol (#) use ctrl+/ to make comments in bulk 
 #  print("Hello, World!") 
