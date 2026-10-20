@@ -22,4 +22,4 @@ msg3 =letters + " " + numbers
 print(msg3) # abc 123
 
 gate = 4
-print(msg1 + gate)
+# print(msg1 + gate) =>error: can only concatenate str (not "int") 
