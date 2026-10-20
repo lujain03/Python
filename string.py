@@ -2,9 +2,6 @@
 # --Strings in Python--
 # ---------------------------
 
-
-
-
 # you can use single quotes or double quotes to create a string in python.
 myStringOne = 'Hello World!' # single quotes
 myStringTwo = "Hello world!!" # double quotes
@@ -23,7 +20,8 @@ print(myStringFour) # Hello 'World'
 # if you want to make multiple lines of a string or using double quotes and single quotes inside the string you can use the triple quotes """ or '''.
 myStringFive = """hello 
 "Dear" Friend,"""
-
+# output: hello
+# "Dear" Friend,
 
 myStringSix = '''hello \
 'I'm' Ms
