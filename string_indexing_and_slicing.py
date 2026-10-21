@@ -24,10 +24,12 @@ print(myString[-5]) # Index -5 is y
 print(myString[2:6]) # Index 2 to 5 is Love bc the end is not included
 print(myString[1:]) # Index 1 to end is Love Python
 print(myString[:6]) # Index 0 to 5 is I Love
+print(myString[-4:-1]) # tho
 
 # print(myString[-1:4])  Index -1 to 4 is empty string bc the end is not included
 
 # [start:End:Steps]
 print(myString[0::1]) #full string
 print(myString[::2]) #ILv yhn
-print(myString[2:9:2]) #
+print(myString[2:9:2]) #Lv y
+print(myString[::-1]) # nohtyP evoL I
