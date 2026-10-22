@@ -23,3 +23,6 @@ print(msg3) # abc 123
 
 gate = 4
 print(msg1 + gate)
+gate1 = 8 
+# print(msg1 + gate) TypeError: can only concatenate str (not "int") to str
+# testtt
